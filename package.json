@@ -41,7 +41,7 @@
   "dependencies": {
     "amqplib": "^0.4.2",
     "amqpuri": "^1.0.2",
-    "bluebird": "^3.4.2",
+    "bluebird": "^3.4.4",
     "jsonic": "^0.2.2",
     "lodash": "^4.15.0",
     "seneca": "^3.0.0",
